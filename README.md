@@ -74,8 +74,3 @@ Built regression and clustering models on real estate and customer datasets, del
 **M.Sc. Statistics & Operations Research** — University of Hyderabad *(2024–2026)*
 **B.Sc. Mathematics** — DSPMU, Ranchi, CGPA 8.56 *(2021–2024)*
 
----
-
-## 📊 GitHub Stats
-
-![Shail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shail127&show_icons=true&theme=default)
