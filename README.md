@@ -31,13 +31,21 @@ Interactive Python (Streamlit) and Power BI dashboards monitoring portfolio perf
 
 🔗 [Live App](https://portfolio-risk-dashboard-1.streamlit.app) · [Repo](https://github.com/Shail127/portfolio-risk-dashboard)
 
-### 🏠 House Price Prediction & Customer Segmentation
-Regression model for house price prediction on 13,000+ real estate records, plus K-Means clustering to segment 200+ customers into actionable groups. Built during my ML internship at Prodigy Infotech.
+### 🏠 House Price Prediction — Regression
+Regression model for house price prediction on 13,000+ real estate records, applying statistical analysis and feature engineering. Built during my ML internship at Prodigy Infotech.
 
 - End-to-end pipeline: data cleaning, feature engineering, model evaluation
-- **Stack:** Python, Pandas, NumPy, Scikit-learn, Linear Regression, K-Means
+- **Stack:** Python, Pandas, NumPy, Scikit-learn, Linear Regression
 
 🔗 [Repo](https://github.com/Shail127/PRODIGY_ML_01)
+
+### 👥 Customer Segmentation — K-Means Clustering
+Segmented 200+ customers into 3 groups using K-Means clustering, translating patterns into actionable insights. Built during my ML internship at Prodigy Infotech.
+
+- End-to-end pipeline: data cleaning, feature engineering, cluster evaluation
+- **Stack:** Python, Pandas, NumPy, Scikit-learn, K-Means
+
+🔗 [Repo](https://github.com/Shail127/PRODIGY_ML_02)
 
 ---
 
