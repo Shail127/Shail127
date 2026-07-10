@@ -72,5 +72,6 @@ Built regression and clustering models on real estate and customer datasets, del
 ## 🎓 Education
 
 **M.Sc. Statistics & Operations Research** — University of Hyderabad *(2024–2026)*
+
 **B.Sc. Mathematics** — DSPMU, Ranchi, CGPA 8.56 *(2021–2024)*
 
