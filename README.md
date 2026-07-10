@@ -62,9 +62,13 @@ Built regression and clustering models on real estate and customer datasets, del
 ## 🛠️ Skills
 
 **Languages:** Python, SQL, R
+
 **Machine Learning:** XGBoost, Regression, K-Means Clustering, Classification, Statistical Modeling, Anomaly Detection
+
 **Visualization & Reporting:** Power BI, Streamlit, Excel, PowerPoint
+
 **Data Handling:** Data Cleaning, Feature Engineering, ETL, Data Mining, Validation & QC
+
 **Core Strengths:** Risk Analysis, Stakeholder Communication, Sentiment Analysis (FinBERT), Data-Driven Decision Making
 
 ---
