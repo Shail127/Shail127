@@ -1,6 +1,6 @@
 # Hi, I'm Shail Singh 👋
 
-Data Analyst & Data Scientist with an M.Sc. in Statistics & Operations Research. I work across the full analytics lifecycle — from cleaning multi-source data to building ML models (XGBoost, regression, K-Means, classification) to communicating findings through dashboards.
+Data Analyst with an M.Sc. in Statistics & Operations Research. I work across the full analytics lifecycle — from cleaning multi-source data to building ML models (XGBoost, regression, K-Means, classification) to communicating findings through dashboards.
 
 - 🔭 Currently building an **Early Warning System (EWS)** for financial-crisis prediction as a Research Intern at **IIM Indore**, integrating financial, economic, and geopolitical data with GDELT and FinBERT sentiment analysis
 - 🌱 Learning: large-scale event data pipelines (GDELT) and LLM-based sentiment analysis for risk signals
